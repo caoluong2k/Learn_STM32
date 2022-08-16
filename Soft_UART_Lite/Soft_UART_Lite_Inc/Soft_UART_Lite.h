@@ -1,7 +1,6 @@
 /**
   ***********************************************************************
   * @file    	Soft_UART.h                                             *
-  * @author 	BIG SIX                                                 *
   * @created 	May 29, 2022                                            *
   * @brief   	This file contains all the function prototypes for      *
   *          	the Soft_UART.c file                                    *
