@@ -1,11 +1,10 @@
 /**
- * ******************************************************************************
- * @file 		Soft_UART.c
- * @auhtor		BIG SIX
- * @created		May 29, 2022
- * @brief		Soft UART Library for STM32F103C8T6
- * 				This file provides code for the configuration of the UART instances
- * *******************************************************************************
+ * *************************************************************************************************
+ * @file 		Soft_UART.c                                                                *
+ * @created		May 29, 2022                                                               *
+ * @brief		Soft UART Library for STM32F103C8T6                                        *
+ * 				This file provides code for the configuration of the UART instances*
+ * *************************************************************************************************
  */
 
 /* Include Library */
